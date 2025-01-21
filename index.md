@@ -9,4 +9,8 @@
 print('Hello World')
 ```
 
+- [x] Finished Intro to Git
+- [x] Finished Intro to Github
+- [ ] Finish Communicate using Markdown
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
