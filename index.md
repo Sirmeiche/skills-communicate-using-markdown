@@ -4,4 +4,9 @@
 #### This is heading H4.
 ##### This is heading H5.
 ###### This is heading H6.
+
+``` python
+print('Hello World')
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
